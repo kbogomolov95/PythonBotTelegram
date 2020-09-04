@@ -1,0 +1,7 @@
+pysqlite3
+telegram
+gunicorn
+python-telegram-bot
+requests
+pytime
+pythreading
